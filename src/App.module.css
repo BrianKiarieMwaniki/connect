@@ -37,33 +37,11 @@
   }
 }
 
+.name{
+  color: red;
+}
+
 .task{
-  margin-top: 2rem;
   display:flex;
   flex-direction:row;
-  justify-content: center;
-  column-gap: .75rem;
-  align-items: center;
-}
-
-.green{
-  color: green;
-}
-
-.green button{
-  color: green;
-  background: white;
-  padding: 4px 8px;
-  border-radius: 4px;
-}
-
-.black{
-  color: black;
-}
-
-.black button{
-  color: black;
-  background: white;
-  padding: 4px 8px;
-  border-radius: 4px;
 }
