@@ -3,6 +3,7 @@ export const Navbar = () =>{
     return (
       <div>
         <Link to="/">Home</Link>
+        <Link to="/profile">Profile</Link>
         <Link to="/cats">Cats</Link>
         <Link to="/excuses">Excuses</Link>
         <Link to="/agify">Agify</Link>
