@@ -67,3 +67,13 @@
   padding: 4px 8px;
   border-radius: 4px;
 }
+
+
+.form{
+  display:flex;
+  flex-direction:column;
+  width: 250px;
+  margin: 4px auto;
+
+  row-gap: 4px;
+}
